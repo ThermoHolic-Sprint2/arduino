@@ -9,7 +9,7 @@ Este é um repositório para um projeto de monitoramento de temperatura usando o
 ## Funcionalidades 
 • Monitoramento de temperatura: O projeto permite a coleta e monitoramento em tempo real da temperatura ambiente utilizando o sensor LM35, conectado ao Arduino como plataforma de coleta de dados.
 
-• Painel geral interativo: O projeto possui um painel geral com KPIs (indicadores-chave de desempenho) e gráficos interativos para visualização dos dados de temperatura coletados, permitindo uma análise rápida e eficiente do estado da temperatura ambiente.
+• Painel geral interativo: O projeto possui um painel geral com KPIs (indicadores-chave de desempenho) e gráficos interativos para visualização dos dados de temperatura coletados, permitindo uma análise rápida e eficiente do estado da temperatura dos tanques.
 
 • API de comunicação entre o Arduino e o site: O projeto possui uma API que permite a comunicação entre o Arduino e o site, facilitando a troca de dados e comandos entre as duas partes.
 
