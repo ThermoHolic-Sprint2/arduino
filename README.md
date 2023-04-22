@@ -1,4 +1,4 @@
-# ThermoHolic - Arduino - Monitoramento de Temperatura com LM35 :beers:
+# ThermoHolic - Arduino: Monitoramento de Temperatura com LM35 :beers:
 ## Bem-vindo(a) ao repositório do arduino no GitHub! 
 ![image](https://user-images.githubusercontent.com/126488672/233811468-c6c347f2-9843-428f-a45d-6c5fd5f7b614.png)
 ______________________________________________________________________________________________________________________________________________________
