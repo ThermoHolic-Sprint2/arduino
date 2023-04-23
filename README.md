@@ -20,7 +20,7 @@ Este é um repositório para um projeto de monitoramento de temperatura usando o
 2. Carregue o código do Arduino para o programa que será utilizado.
 3. Conecte o sensor LM35 ao Arduino de acordo com as instruções do projeto.
 4. Execute o site localmente em um servidor web para visualizar o painel geral com KPIs e gráficos de temperatura, utilizando um navegador web.
-5. tilize a API para estabelecer a comunicação entre o Arduino e o site, permitindo a coleta e visualização dos dados de temperatura em tempo real.
+5. Utilize a API para estabelecer a comunicação entre o Arduino e o site, permitindo a coleta e visualização dos dados de temperatura em tempo real.
 6. Personalize o projeto de acordo com suas necessidades, implementando novas funcionalidades ou melhorando a interface do painel geral.
 
 ## Tecnologias utilizadas:
